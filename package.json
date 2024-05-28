@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "antd": "^5.17.3",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.7.2",
+    "postcss": "^8.4.38",
+    "react-query": "^3.39.3",
+    "tailwindcss": "^3.4.3"
+  }
+}

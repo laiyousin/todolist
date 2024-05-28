@@ -1,1 +1,13 @@
-node_modules
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+venv/
+
+# Remix build output
+/build/
+
+# Miscellaneous
+.DS_Store
+.env
+*.log
